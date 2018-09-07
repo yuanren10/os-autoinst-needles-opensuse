@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "Automatic_Login_Opened"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 415,
+      "ypos": 262,
+      "width": 320,
+      "height": 48,
+      "type": "match"
+    }
+  ]
+}
